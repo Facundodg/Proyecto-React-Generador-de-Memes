@@ -5,9 +5,36 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image:url("../public/img/fondo.jpg");
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.linea1{
+
+    position: absolute;
+    color: #FFFFFF;
+    text-shadow: 0 0 5px black;
+    width: 600px !important;
+
+}
+
+.linea2{
+
+  position: absolute;
+
+  color: #FFFFFF;
+  text-shadow: 0 0 5px black;
+  margin-top: 400px;
+  width: 600px !important;
+  
+}
+
+#meme{
+
+  width: 600px !important;
+
 }
